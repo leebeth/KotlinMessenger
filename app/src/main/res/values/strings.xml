@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinMessenger</string>
+    <string name="username_hint">username</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="title_button_register">Registrar</string>
+    <string name="msg_already_account">You already have an account</string>
+    <string name="msg_select_photo">Select photo</string>
+</resources>
